@@ -3,7 +3,7 @@ windows batch file that will make a ton of folders in random locations.
 
   Created and tested 
     PROJECT IS NO LONGER MAINTAINED BUT STILL WORKS AS OF APRIL 5th 2022
-    Winows must be main OS of victim
+      Winows must be main OS of victim
     
    
    Created and coded in notepad of course lmao by JR
